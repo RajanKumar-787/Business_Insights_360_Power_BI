@@ -143,9 +143,9 @@ This Executive View dashboard provides a complete business summary by combining 
 ## Author & Contact
 
 **Author:** Rajan Kumar  
-**Email:** rajaninranchi787@gmail.com  
+**Email:** analyst.rajankumarr@gmail.com  
 **GitHub:** [https://github.com/RajanKumar-787](https://github.com/RajanKumar-787)  
-**LinkedIn:** [https://www.linkedin.com/in/rajankumar787/](https://www.linkedin.com/in/rajankumar787/)  
+**LinkedIn:** [https://www.linkedin.com/in/rajankumar0/](https://www.linkedin.com/in/rajankumar0/)  
 
 ⭐ If you found this project helpful, please consider giving it a star!  
 💬 Feedback and suggestions are always welcome!
